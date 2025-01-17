@@ -3,14 +3,6 @@
 
 A brief description of what this project does and who it's for
 
-
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-
 ## Authors
 
 - [@octokatherine](https://www.github.com/octokatherine)
@@ -21,8 +13,7 @@ A brief description of what this project does and who it's for
 Add badges from somewhere like: [shields.io](https://shields.io/)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
 
 
 ## API Reference
@@ -47,9 +38,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `string` | **Required**. Id of item to fetch |
 
-#### add(num1, num2)
 
-Takes two numbers and returns the sum.
 
 
 ## Appendix
@@ -111,15 +100,9 @@ To run this project, you will need to add the following environment variables to
 - Cross platform
 
 
-## Feedback
-
-If you have any feedback, please reach out to us at fake@fake.com
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
 
 
 ## 🛠 Skills
@@ -135,12 +118,6 @@ Install my-project with npm
   cd my-project
 ```
     
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 
 ## Roadmap
@@ -151,8 +128,15 @@ What did you learn while building this project? What challenges did you face and
 
 
 ## Screenshots
+![Screenshot (20)](https://github.com/user-attachments/assets/17b087d6-28c8-4d10-b2d9-19478c50fe33)
+![Screenshot (19)](https://github.com/user-attachments/assets/75ac405b-d58c-42e0-8705-2329ae89eafb)
+![Screenshot (18)](https://github.com/user-attachments/assets/4617bf86-de94-4424-a592-9464b36a10ef)
+![Screenshot (25)](https://github.com/user-attachments/assets/47c9eef6-e43e-4585-8aae-fabbb3326911)
+![Screenshot (24)](https://github.com/user-attachments/assets/39eafae9-f0e6-4b2e-8a7f-dd701d80b71e)
+![Screenshot (23)](https://github.com/user-attachments/assets/38567a63-faab-45d8-b889-412ce12e6fc2)
+![Screenshot (22)](https://github.com/user-attachments/assets/93481d19-9736-4859-a15a-6fdad509e44c)
+![Screenshot (21)](https://github.com/user-attachments/assets/03440e71-0eda-4b1a-b558-73f8693999b2)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Usage/Examples
@@ -165,25 +149,6 @@ function App() {
 }
 ```
 
-
-## Used By
-
-This project is used by the following companies:
-
-- Company 1
-- Company 2
-
-
-## Related
-
-Here are some related projects
-
-[Awesome README](https://github.com/matiassingers/awesome-readme)
-
-
-## Optimizations
-
-What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
 
 
 ## License
